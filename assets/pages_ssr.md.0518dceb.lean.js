@@ -1,0 +1,1 @@
+import{_ as l,c as a,o as e,O as i}from"./chunks/framework.a45091be.js";const b=JSON.parse('{"title":"ssr服务端渲染","description":"","frontmatter":{},"headers":[],"relativePath":"pages/ssr.md","lastUpdated":1695781459000}'),t={name:"pages/ssr.md"},o=i("",21),r=[o];function s(h,d,c,u,n,m){return e(),a("div",null,r)}const q=l(t,[["render",s]]);export{b as __pageData,q as default};
