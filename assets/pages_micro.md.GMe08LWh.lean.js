@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ao as l}from"./chunks/framework.DOhyS95j.js";const g=JSON.parse('{"title":"微前端","description":"","frontmatter":{},"headers":[],"relativePath":"pages/micro.md","filePath":"pages/micro.md"}'),t={name:"pages/micro.md"};function h(p,s,k,e,r,E){return n(),a("div",null,s[0]||(s[0]=[l("",93)]))}const o=i(t,[["render",h]]);export{g as __pageData,o as default};
