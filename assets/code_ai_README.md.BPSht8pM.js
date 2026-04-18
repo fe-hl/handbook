@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DOhyS95j.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/ai/README.md","filePath":"code/ai/README.md"}'),o={name:"code/ai/README.md"};function c(r,s,n,d,i,p){return a(),t("div")}const E=e(o,[["render",c]]);export{m as __pageData,E as default};
