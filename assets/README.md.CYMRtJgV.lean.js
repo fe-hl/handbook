@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,aP as r}from"./chunks/framework.DBzxNud0.js";const f=JSON.parse('{"title":"fe-handbook","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function i(s,a,l,d,h,_){return o(),t("div",null,[...a[0]||(a[0]=[r("",7)])])}const p=e(n,[["render",i]]);export{f as __pageData,p as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DBzxNud0.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/ai/README.md","filePath":"code/ai/README.md"}'),o={name:"code/ai/README.md"};function c(r,s,n,d,i,p){return t(),a("div")}const E=e(o,[["render",c]]);export{m as __pageData,E as default};
