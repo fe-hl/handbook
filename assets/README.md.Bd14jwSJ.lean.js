@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as n,aP as t}from"./chunks/framework.CjLVxgV3.js";const u=JSON.parse('{"title":"fe-handbook","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),o={name:"README.md"};function r(i,a,p,l,d,c){return s(),n("div",null,[...a[0]||(a[0]=[t("",13)])])}const b=e(o,[["render",r]]);export{u as __pageData,b as default};
