@@ -1,0 +1,1 @@
+import{_ as t,o as l,c as r,aR as o}from"./chunks/framework.DI3wswNW.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/mq.md","filePath":"code/mq.md"}'),i={name:"code/mq.md"};function e(n,a,h,s,d,u){return l(),r("div",null,[...a[0]||(a[0]=[o("",93)])])}const q=t(i,[["render",e]]);export{c as __pageData,q as default};
